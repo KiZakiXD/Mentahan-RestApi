@@ -1,11 +1,5 @@
-# simple-api
 
-Pake aja buat belajar, saya pun masih belajar
-Tapi Jangan lupa nama creator (ɔ◔‿◔)ɔ ♥
-Yang mau nambahin bisa Pull request kalo ada yang Error bisa langsung buat Issue
-Enjoy~ <3
-
-## 🛠️ Feature
+## Feature
 ```
 >> Play
 >> Youtube Downloader
@@ -71,6 +65,7 @@ Enjoy~ <3
 >> Nhentai Info
 >> Nhentai Downloader
 >> Tebak Gambar
+>> Stress
 >> jpg To webp
 >> Mp4 To mp3
 >> Nulis Buku
@@ -83,7 +78,3 @@ Enjoy~ <3
 >> Qrcode Creator
 >> Hilih Generator
 ```
-
-## Thanks To
-* [`indrijunanda`](https://github.com/indrijunanda/RuangAdmin)
-* Anu-Team
