@@ -1,8 +1,9 @@
+## View Rest Apis
+Link : https://kizakixdapis.herokuapp.com/
 
 ## Feature
 ```
 >> Cek Sendiri
->> Noh : https://kizakixdapis.herokuapp.com/
 ```
 
 ## Eror ?
