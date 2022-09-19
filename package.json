@@ -1,7 +1,7 @@
 {
-  "name": "Free-Api",
+  "name": "Template-Api",
   "version": "1.0.0",
-  "description": "Simpe-API",
+  "description": "Free Sourcode",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
