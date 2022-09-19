@@ -6,7 +6,7 @@
 
 ## Eror ?
 ```
->> 80% Karena Cuman Sediain Template Doang
+>> 80%, Karena Cuman Sediain Template Doang
 ```
 
 ## Note :
@@ -15,4 +15,5 @@
 >> Males Bikin Readme, Seadanya Ae
 >> Lu Kasih Tqtq Atau G, Gapeduli
 >> Thank Buat Contributor Lain Udah Gw Tulis Ya.
+>> Beberapa Gw Udah Liat Kanan Kiri Buat Refrensi ( Copas Bilang Aja :v )
 ```
